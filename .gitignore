@@ -1,0 +1,8 @@
+*.c.d
+*.c.o
+tags
+main
+*.swp
+a.out
+test-*.c
+hanafuda.h
